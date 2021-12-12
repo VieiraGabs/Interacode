@@ -1,9 +1,5 @@
 # Interacode
 
-Teach other is a private lesson scheduling service for college students.
-
-This was the final project from an University class called "Projeto Transversal 1" (University of Brasília - Network Engineering)
-
 ## How to run this website
 
 - Create your own **.env.local** file based on **.env.example** (Create a mongoDB instance on MongoDB Atlas or docker container and paste the database url on **.env.local**, and also create an account on auth0 and paste he AUTH0 variables).
@@ -39,7 +35,4 @@ yarn dev
 - List teachers by class
 - Schedule a private lesson
 - Spend and recieve a digital currency
-
-## Live version
-
-You can visit the live version of Teach Other on https://teach-other.vercel.app
+- 
