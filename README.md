@@ -1,12 +1,8 @@
-# Teach Other
+# Interacode
 
 Teach other is a private lesson scheduling service for college students.
 
 This was the final project from an University class called "Projeto Transversal 1" (University of Brasília - Network Engineering)
-
-## YouTube tutorial
-
-You can watch a full tutorial about this project on [YouTube](https://www.youtube.com/watch?v=MeYibJFi7p0&list=PLbV6TI03ZWYVxGBKyYJf_Qy6d4saMbCq3&index=2).
 
 ## How to run this website
 
